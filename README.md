@@ -1,5 +1,5 @@
 # Mechanical-Design-Portfolio
-A collection of engineering projects featuring SolidWorks CAD modeling
+An engineering project featuring SolidWorks CAD modeling
 
 **Wong Chuen Meng** | Mechanical Engineering Undergraduate @ USM  
 [LinkedIn Profile](https://www.linkedin.com/in/wong-chuen-meng-21803a303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | [Email](mailto:wwcm79@gmail.com)
