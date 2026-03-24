@@ -13,6 +13,9 @@ A collection of engineering projects featuring SolidWorks CAD modeling
 ### 🎯 Overview
 Designed and fabricated a custom robotic arm for the Robocon 2026 competition. The arm was engineered to pick and place objects with a mass of ≈500 grams while minimising total weight.
 
+### 🎥 Demo
+*[Watch full demo video](https://youtube.com/shorts/ENlbNlkxMXE?feature=share)*
+
 ### 📸 Design
 Robotic Arm Assembly_V2<img width="910" height="653" alt="v2" src="https://github.com/user-attachments/assets/fc022bd6-f84d-4f5b-9433-00840c1d90d4" />![v2a](https://github.com/user-attachments/assets/f34f5472-178c-4cfa-a535-a023a8a34d3f)
 
@@ -21,6 +24,3 @@ Robotic Arm Assembly_V3<img width="1062" height="644" alt="v3" src="https://gith
 ### ⚙️ Technical Highlights
 * **Weight Optimization:** Utilized topology optimization to reduce linkage weight without compromising structural rigidity.
 * **Fabrication:** Hybrid construction using **3D Printed (PLA+)** end-effectors for complex geometry and **Laser-Cut Aluminium** for structural links.
-
-### 🎥 Demo
-*[Watch full demo video](https://youtube.com/shorts/ENlbNlkxMXE?feature=share)*
