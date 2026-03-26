@@ -25,5 +25,5 @@ Robotic Arm Assembly_V3<img width="1062" height="644" alt="v3" src="https://gith
 * **Weight Optimization:** Utilized topology optimization to reduce linkage weight without compromising structural rigidity.
 * **Fabrication:** Hybrid construction using **3D Printed (PLA+)** end-effectors for complex geometry and **Laser-Cut Aluminium** for structural links.
 
-## One of the Engineering Drawings to Be Fabricated
+## One Of The Part To Be Fabricated
 <img width="882" height="622" alt="Screenshot 2026-03-26 183134" src="https://github.com/user-attachments/assets/cec904d9-5476-4219-a7a1-5d766ea437e3" />
