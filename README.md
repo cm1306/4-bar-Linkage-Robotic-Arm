@@ -7,7 +7,7 @@ An engineering project featuring SolidWorks CAD modeling
 ---
 
 ## 🚀 Featured Project: 4 Bar Linkage Robotic Arm
-**Materials:** Aluminium plate, PLA, Acrylic  
+**Materials:** 3mm Aluminium plate, PLA, Acrylic  
 **Tools:** SolidWorks, Bambu Studio (3D Printing), LightBurn (Laser Cutting)
 
 ### 🎯 Overview
@@ -15,7 +15,6 @@ Designed and fabricated a custom robotic arm for the Robocon 2026 competition. T
 
 ### 🎥 Demo
 *[Watch full demo video](https://youtube.com/shorts/ENlbNlkxMXE?feature=share)*
-![robotic arm gif](https://github.com/user-attachments/assets/e58228c2-c245-499f-884d-08e1324ad052)
 
 ### 📸 Design
 Robotic Arm Assembly_V2<img width="910" height="653" alt="v2" src="https://github.com/user-attachments/assets/fc022bd6-f84d-4f5b-9433-00840c1d90d4" />![v2a](https://github.com/user-attachments/assets/f34f5472-178c-4cfa-a535-a023a8a34d3f)
