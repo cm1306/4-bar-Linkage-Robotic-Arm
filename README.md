@@ -1,12 +1,6 @@
-# Mechanical-Design-Portfolio
+# 4-bar Linkage Robotic Arm
 An engineering project featuring SolidWorks CAD modeling
 
-**Wong Chuen Meng** | Mechanical Engineering Undergraduate @ USM  
-[LinkedIn Profile](https://www.linkedin.com/in/wong-chuen-meng-21803a303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | [Email](mailto:wwcm79@gmail.com)
-
----
-
-## 🚀 Featured Project: 4 Bar Linkage Robotic Arm
 **Materials:** 3mm Aluminium plate, PLA, Acrylic  
 **Tools:** SolidWorks, Bambu Studio (3D Printing), LightBurn (Laser Cutting)
 
